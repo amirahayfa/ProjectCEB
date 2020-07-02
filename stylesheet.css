@@ -209,6 +209,11 @@ body input[type=submit]{
   font-size: 15px;
   border: 1px solid #F7F49C;
 }
+body input[type=submit]:hover {
+  background-color: #979816  ;
+  color: white;
+}
+
 
 footer img {
   width: 125px;
