@@ -77,8 +77,9 @@ header {
 }
 
 .header-left {
-  float: left;
   display: inline-block;
+  float: left;
+
 }
 
 .header-right {
