@@ -1,0 +1,19 @@
+    <div class="footer">
+      <div class="footer-logo">
+        <h1>CEB-66 CREATOR</h1>
+        <p>We are a team to make a simple project</p>
+        <p2>Practice makes us right,<span>repetitions make us perfect.</span></p2>
+      </div>
+      <div class="footer-list">
+        <ul>
+          <li>Thanks, to</li>
+          <li>Progate</li>
+          <li>Universitas Gadjah Mada</li>
+        </ul>
+      <div class="footer-end">
+        <img src="file:///C:/Users/user/Downloads/undraw_social_girl_562b.svg">
+        <p align="center">Thank You for Visiting</p>
+      </div>
+    </div>
+  </body>
+</html>
