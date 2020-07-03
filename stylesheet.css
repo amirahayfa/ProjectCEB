@@ -214,19 +214,57 @@ body input[type=submit]:hover {
   color: white;
 }
 
-
-footer img {
-  width: 125px;
+li {
+  list-style: none;
+  font-size: 25px;
 }
 
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
+.footer {
+  font-style: oblique;
+  background-color: #1e272e;
+  height: 500px;
+  color: white;
 }
 
-footer {
-  padding-top: 30px;
+.footer-logo {
+  float: right;
+  margin: 50px 50px;
 }
+
+.footer-logo h1 {
+  font-size: 60px;
+  color: #1B9CFC;
+}
+
+.footer-logo p {
+  font-size: 30px;
+}
+
+.footer-logo p2 {
+  font-size: 25px;
+}
+
+span {
+  color: #0fbcf9;
+}
+
+img {
+  width: 250px;
+  float: right;
+}
+
+.footer-list {
+  padding-top: 100px;
+  font-size: 20px;
+}
+
+.footer-end p {
+font-size: 30px;
+padding-top: 100px;
+align-items: center;
+color: #1B9CFC;
+}
+
 .header-right a{
   float:right;
   line-height:65px;
