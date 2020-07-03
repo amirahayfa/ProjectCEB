@@ -229,4 +229,13 @@ footer {
 }
 .header-right a{
   float:right;
+  line-height:65px;
+  padding:0 25px;
+  color:white;
+  display:inline-block;
+}
+.header-right:hover {
+  background-color:rgba(255,255,255,0.5);
+}
+ 
   
