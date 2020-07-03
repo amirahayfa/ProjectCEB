@@ -144,7 +144,7 @@ li {
 
 .footer {
   font-style: oblique;
-  background-color: #1e272e;
+  background-color: #45aaf2;
   height: 500px;
   color: white;
 }
@@ -156,7 +156,6 @@ li {
 
 .footer-logo h1 {
   font-size: 60px;
-  color: #1B9CFC;
 }
 
 .footer-logo p {
@@ -165,10 +164,6 @@ li {
 
 .footer-logo p2 {
   font-size: 25px;
-}
-
-span {
-  color: #0fbcf9;
 }
 
 img {
@@ -185,7 +180,6 @@ img {
 font-size: 30px;
 padding-top: 100px;
 align-items: center;
-color: #1B9CFC;
 }
 
 .header-right a{
