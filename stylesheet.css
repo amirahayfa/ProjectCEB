@@ -16,6 +16,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-size: cover;
+  background-color: #2980B9;
   color: white;
   text-align: center;
 }
@@ -70,12 +71,6 @@ header {
   /* Ubah z-index ke 10 */
   z-index: 10;
   display: inline-block;
-}
-
-.logo {
-  width: 30%; 
-  height: 30%; 
-  object-fit: contain; 
 }
 
 .header-left {
